@@ -1,12 +1,6 @@
 <h1>Hi 👋, I'm Fernando González</h1>
 
-- 🌱 I’m currently learning **Back End**
-
-- 💬 Ask me about **sass or tailwind**
-
 - 📫 How to reach me **fernandogonzar0@gmail.com**
-
-- ⚡ Fun fact **I think a am random**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,5 +21,5 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/88afa53aae635c5b291df317cc91e6cd48a551a28a84a6add3664d311fe28765/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f667425323053514c2532305365727665722d4343323932373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f667425323073716c253230736572766572266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/88afa53aae635c5b291df317cc91e6cd48a551a28a84a6add3664d311fe28765/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f667425323053514c2532305365727665722d4343323932373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f667425323073716c253230736572766572266c6f676f436f6c6f723d7768697465" alt="SQLSERVER" data-canonical-src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&amp;logo=microsoft%20sql%20server&amp;logoColor=white" style="max-width: 100%;" class="hoverZoomLink"></a></p>
 </br>
 <p  dir="auto"><b>Visitors Count</b></p>
-<p  alingn="center"><img alingn="center" src="https://profile-counter.glitch.me/{FernandoGonza27}/count.svg" style="max-width: 100%;" </img></p>
+<p  align="center"><img align="center" src="https://profile-counter.glitch.me/{FernandoGonza27}/count.svg" style="max-width: 100%;" </img></p>
 
