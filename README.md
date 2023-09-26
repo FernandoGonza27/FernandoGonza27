@@ -1,7 +1,8 @@
 <h1>Hi 👋, I'm Fernando González</h1>
 
 - 📫 How to reach me **fernandogonzar0@gmail.com**
-
+<p>I focused in the web developer, i knowledge in diferrents tecnologies and frankworks about the front end and back end.<p/>
+<p>I  develop web apis withe the esctructure Rest and graphql.<p/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fernando_g27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fernando_g27" height="30" width="40" /></a>
