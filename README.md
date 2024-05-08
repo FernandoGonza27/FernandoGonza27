@@ -15,7 +15,7 @@
 
 <h3 align="left">Tecnologies:</h3>
 <p dir="auto">
-  <a href="https://www.flaticon.com/free-icons/gitlab" title="gitlab icons">Gitlab icons created by Freepik - Flaticon</a>
+ [ <a href="https://www.flaticon.com/free-icons/gitlab" title="gitlab icons">Gitlab icons created by Freepik - Flaticon</a>](https://www.flaticon.com/free-icon/gitlab_5968853?k=1715211849211&sign-up=google)
 </p>
 </br>
 - 📫 How to reach me **fernandogonzar0@gmail.com**
