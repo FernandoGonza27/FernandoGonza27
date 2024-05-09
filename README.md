@@ -14,6 +14,7 @@
   <a href="https://linkedin.com/in/fernando gonzález" >
     <img src="https://skillicons.dev/icons?i=linkedin" alt="fernando gonzález/>
   </a>
+  </p>
 
 
 <h3 align="left">Languages</h3>
