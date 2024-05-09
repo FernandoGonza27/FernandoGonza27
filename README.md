@@ -8,6 +8,10 @@
   <a href="https://instagram.com/fernandogr_27" >
     <img src="https://skillicons.dev/icons?i=instagram" alt="fernando gonzález/>
   </a>
+    
+  <a href="https://twitter.com/fernando_g27" >
+    <img src="https://skillicons.dev/icons?i=twitter" alt="fernando gonzález/>
+  </a>
   </p>
 
 
