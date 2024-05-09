@@ -9,7 +9,10 @@
   <a href="https://twitter.com/fernando_g27" >
     <img src="https://skillicons.dev/icons?i=twitter" alt="fernando gonzáleztw/>
   </a>
-  </p>
+  <a href="https://instagram.com/fernandogr_27" >
+    <img src="https://skillicons.dev/icons?i=instagram" alt="fernando gonzálezig/>
+  </a>
+ </p>
 
 
 <h3 align="left">Languages</h3>
