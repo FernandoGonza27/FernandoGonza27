@@ -3,16 +3,10 @@
 
 <p>I focused in the web developer, i knowledge in diferrents tecnologies and frankworks about the front end and back end.<p/>
 <p>I  develop web apis withe the esctructure Rest and graphql.<p/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Connect with me</h3>
+<p align="center">
   <a href="https://instagram.com/fernandogr_27" >
     <img src="https://skillicons.dev/icons?i=instagram" alt="fernando gonzález/>
-  </a>
-  <a  href="https://twitter.com/fernando_g27" >
-    <img src="https://skillicons.dev/icons?i=twitter" alt="fernando gonzález/>
-  </a>
-  <a href="https://linkedin.com/in/fernando gonzález" >
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="fernando gonzález/>
   </a>
   </p>
 
@@ -22,7 +16,7 @@
 
 <h3 align="left">Tecnologies</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=git,gitlab,docker,vim" />
   </a>
 </p></br>
