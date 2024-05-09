@@ -9,7 +9,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="fernando gonzález/>
   </a>
   <a href="https://twitter.com/fernando_g27">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="fernando gonzález/>
+    <img src="https://skillicons.dev/icons?i=twitter" alt="fernando gonzález/>
   </a>
   <a href="https://linkedin.com/in/fernando gonzález">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="fernando gonzález/>
