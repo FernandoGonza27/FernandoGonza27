@@ -6,11 +6,11 @@
 <h3 align="left">Connect with me</h3>
 <p align="center">
   <a href="https://instagram.com/fernandogr_27" >
-    <img src="https://skillicons.dev/icons?i=instagram" alt="fernando gonzález/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="fernando gonzálezig/>
   </a>
     
   <a href="https://twitter.com/fernando_g27" >
-    <img src="https://skillicons.dev/icons?i=twitter" alt="fernando gonzález/>
+    <img src="https://skillicons.dev/icons?i=twitter" alt="fernando gonzáleztw/>
   </a>
   </p>
 
