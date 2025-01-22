@@ -2,7 +2,7 @@
 
 
 <p>I focused in the web developer, i knowledge in diferrents tecnologies and frankworks about the front end and back end.<p/>
-<p>I  develop web apis withe the esctructure Rest and graphql.<p/>
+<p>I  develop web apis with  the esctructure Rest and graphql.<p/>
 
 <h3 align="left">Languages</h3>
 <p align="center">
