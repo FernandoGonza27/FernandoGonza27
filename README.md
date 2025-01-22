@@ -16,7 +16,7 @@
 <h4>Visit My Linkedin</h4>
 <p align="Left">
   <a href="www.linkedin.com/in/fernando-gonzález-3baa60217">
-    <img src="https://skillicons.dev/icons?i=Linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 </br>
