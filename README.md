@@ -10,7 +10,7 @@
 <h3 align="left">Tecnologies</h3>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,docker,vim,regix" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,docker,vim,regex" />
   </a>
 </p>
 <h4>Visit My Linkedin</h4>
