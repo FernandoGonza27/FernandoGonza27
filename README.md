@@ -20,7 +20,7 @@
 </p>
 <h3>Visit My LinkedIn</h4>
 <p align="left">
-  <a href="https://www.linkedin.com/in/fernando-gonzalez-3baa60217" target="_blank">
+  <a href="https://www.linkedin.com/in/fernando-gonzález-3baa60217" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile" />
   </a>
 </p>
