@@ -18,15 +18,12 @@
     <img src="https://skillicons.dev/icons?i=git,gitlab,docker,vim,regex,postman,firebase" />
   </a>
 </p>
-<h4>Visit My Linkedin</h4>
-<p align="Left">
-  <a href="www.linkedin.com/in/fernando-gonzález-3baa60217">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+<h3>Visit My LinkedIn</h4>
+<p align="left">
+  <a href="https://www.linkedin.com/in/fernando-gonzalez-3baa60217" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile" />
   </a>
 </p>
-   <a href="www.linkedin.com/in/fernando-gonzález-3baa60217">
-Click
-  </a>
 </br>
 - 📫 How to reach me **fernandogonzar0@gmail.com**
 - The mistery is coming oon
