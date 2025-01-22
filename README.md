@@ -10,9 +10,16 @@
 <h3 align="left">Tecnologies</h3>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,docker,vim" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,docker,vim,regix" />
   </a>
-</p></br>
+</p>
+<h4>Visit My Linkedin</h4>
+<p align="Left">
+  <a href="www.linkedin.com/in/fernando-gonzález-3baa60217">
+    <img src="https://skillicons.dev/icons?i=Linkedin" />
+  </a>
+</p>
+</br>
 - 📫 How to reach me **fernandogonzar0@gmail.com**
 - The mistery is coming oon
 <p  dir="auto"><b>Visitors Count</b></p>
