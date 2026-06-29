@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Fernando González</h1>
 
 <h3 align="center">
@@ -176,4 +176,4 @@ I use Docker, Git workflows, CI/CD pipelines, and cloud services to improve deve
 <p align="center">
   <strong>Building, testing, automating, and improving software one project at a time.</strong>
 </p>
-```
+
