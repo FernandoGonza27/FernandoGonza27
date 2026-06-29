@@ -138,14 +138,10 @@ I use Docker, Git workflows, CI/CD pipelines, and cloud services to improve deve
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandoGonza27&show_icons=true&theme=tokyonight&hide_border=true" alt="Fernando González GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGonza27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoGonza27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -161,14 +157,6 @@ I use Docker, Git workflows, CI/CD pipelines, and cloud services to improve deve
   <a href="https://www.linkedin.com/in/fernando-gonzález-3baa60217" target="_blank">
     Fernando González
   </a>
-</p>
-
----
-
-## 👀 Visitors Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/FernandoGonza27/count.svg" alt="Visitors Count" />
 </p>
 
 ---
