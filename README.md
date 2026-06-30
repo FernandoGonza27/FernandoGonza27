@@ -138,14 +138,6 @@ I use Docker, Git workflows, CI/CD pipelines, and cloud services to improve deve
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoGonza27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Contact
 
 <p align="left">
